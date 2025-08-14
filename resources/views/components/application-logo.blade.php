@@ -1,1 +1,1 @@
-<h1 class="my-6 text-5xl font-extrabold">UdD E-Jeepney RFID</h1>
+<h1 class="my-6 font-extrabold">UdD E-Jeepney RFID</h1>
